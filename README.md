@@ -3,6 +3,8 @@
 A browser instrument for playing chords and making loops. Change the voicings,
 draw an arpeggio, then export MIDI or WAV for your DAW.
 
+[Play THREAD](https://xppel.github.io/thread-demo/)
+
 Play the pads with the mouse or keys **1–6**. **Shift** toggles Hold, **Space**
 starts or stops the loop, and **Esc** silences it. Record a performance or drag
 pads into the sequence. Your session saves in this browser; **Info (?)** has the
