@@ -20,10 +20,7 @@ npm run dev
 ## Checks
 
 ```sh
-npm test
 npm run build
-npx playwright install chromium webkit
-npm run test:e2e
 ```
 
 Dependency notices are in [THIRD-PARTY-NOTICES.txt](public/THIRD-PARTY-NOTICES.txt).
